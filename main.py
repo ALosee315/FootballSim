@@ -16,5 +16,5 @@ while i<10:
     result+=1
     #test out the time.sleep function
     time.sleep(0.5)
-    print(result)
+    print(result+1)
     i+=1
